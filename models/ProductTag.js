@@ -1,5 +1,4 @@
 const { Model, DataTypes } = require('sequelize');
-const { dateToString } = require('sqlstring');
 
 const sequelize = require('../config/connection');
 
